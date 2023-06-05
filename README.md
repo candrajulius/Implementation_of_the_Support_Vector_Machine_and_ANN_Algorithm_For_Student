@@ -1,0 +1,1 @@
+# Implementation_of_the_Support_Vector_Machine_and_ANN_Algorithm_For_Student
